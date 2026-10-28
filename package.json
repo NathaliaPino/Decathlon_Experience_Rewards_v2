@@ -1,0 +1,18 @@
+{
+  "name": "decathlon-experience-rewards",
+  "private": true,
+  "version": "2.0.0",
+  "description": "Decathlon Experience Rewards — versão de produção (projeto acadêmico FIAP Pós-Tech).",
+  "type": "module",
+  "scripts": {
+    "dev": "vite",
+    "build": "vite build",
+    "preview": "vite preview --port 4173"
+  },
+  "dependencies": {
+    "@supabase/supabase-js": "2.118.0"
+  },
+  "devDependencies": {
+    "vite": "6.4.5"
+  }
+}
